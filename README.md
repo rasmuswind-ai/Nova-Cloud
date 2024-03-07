@@ -1,8 +1,8 @@
-#### What is Nova-Cloud;
+### What is Nova-Cloud;
 Nova-Cloud is a demo webpage, where I test a bunch of things, and incorporations into a webpage.
 
 
-#### What is the plan;
+### What is the plan;
 The plan for Nova-Cloud is to have a full functional webpage, which integrates features mentioned below.
 
 - GPT-4 Integration
